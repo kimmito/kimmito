@@ -16,14 +16,11 @@
 • Современные решения на React/TypeScript  
 
 ## 🏆 Мои проекты
-- PizzaLAB (https://pizza-lab-red.vercel.app) — React-приложение - сайт пиццерии
+- [PizzaLAB](https://pizza-lab-red.vercel.app) — React-приложение - сайт пиццерии
 
 📫 **Связь:** [![Telegram](https://img.shields.io/badge/-@skmito-26A5E4?logo=telegram)](https://t.me/skmito)  
 
-```javascript
-const motto = "Код — это поэзия, 
-               а интерфейсы — искусство";
-```
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true)
 
 
