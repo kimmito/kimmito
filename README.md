@@ -21,7 +21,7 @@
 • Оптимизация SEO (мета-теги, sitemap, OpenGraph) 
 
 ## 🏆 Мои проекты
-- [PizzaLAB](https://pizza-lab-red.vercel.app) — React-приложение - сайт пиццерии
+- [PizzaLAB](https://pizza-lab-red.vercel.app) — React-приложение - сайт пиццерии | https://github.com/kimmito/pizzaLab
 
 📫 **Связь:** [![Telegram](https://img.shields.io/badge/-@skmito-26A5E4?logo=telegram)](https://t.me/skmito)  
 
