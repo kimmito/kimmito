@@ -28,7 +28,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmito&show_icons=true&theme=dracula&hide_border=true)
 
-
-[![Играть в змейку](https://img.shields.io/badge/-Играть_в_змейку-4BC51D?style=for-the-badge)](https://kimmito.github.io/snake-game)
-
 ![Змейка](https://github.com/kimmito/kimmito/blob/output/github-contribution-grid-snake.gif)
