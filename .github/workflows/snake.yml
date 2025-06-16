@@ -5,33 +5,26 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
-
-permissions:
-  contents: write
+    branches: [ "main" ]
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
+      - name: Checkout
+        uses: actions/checkout@v4
+        
       - name: Generate Snake
-        uses: Platane/snk@v2
-        id: snake
+        uses: Platane/snk@master
         with:
-          github_user_name: kimmito
-          
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake-animation
-          path: dist/snk/
-          
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist/snk/
-          keep_files: true
+          
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
+          branch: output
