@@ -25,7 +25,6 @@
 
 📫 **Связь:** [![Telegram](https://img.shields.io/badge/-@skmito-26A5E4?logo=telegram)](https://t.me/skmito)  
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmito&show_icons=true&theme=dracula&hide_border=true)
 
 ![Змейка](https://github.com/kimmito/kimmito/blob/output/github-contribution-grid-snake.gif)
