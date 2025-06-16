@@ -27,4 +27,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmito&show_icons=true&theme=dracula&hide_border=true)
 
-![Змейка](https://github.com/kimmito/kimmito/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/kimmito/kimmito/blob/output/github-contribution-grid-snake.svg)
