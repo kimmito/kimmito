@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Snake Animation
 
 on:
   schedule:
@@ -8,23 +8,27 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        
+      - uses: actions/checkout@v4
+
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate Snake
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Deploy to Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          folder: dist
-          branch: output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output  # Создаст ветку output
+          keep_files: false
