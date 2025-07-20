@@ -20,10 +20,28 @@
 • Интерактивные анимации
 • Оптимизация SEO (мета-теги, sitemap, OpenGraph) 
 
-## 🏆 Мои проекты
-- [PizzaLAB](https://pizza-lab-red.vercel.app) — React-приложение - сайт пиццерии | https://github.com/kimmito/pizzaLab | Пет-проект
-- [Meta Trading AI](https://kimmito.github.io/Meta-Trading) - Лендинг для автоматизированного трейдинга | https://github.com/kimmito/Meta-Trading | Коммерческий проект
-- [WildSave](https://kimmito/github.io/WildSave) - Лендинг центра помощи диким животным | https://github.com/kimmito/WildSave | Пет-проект
+## 🏆 Портфолио проектов
+
+### 💼 Коммерческие проекты
+
+**[Meta Trading AI](https://kimmito.github.io/Meta-Trading)**  
+📌 Лендинг для финтех-стартапа (HTML/CSS/JS)  
+🔗 [Код](https://github.com/kimmito/Meta-Trading) | [Демо](https://kimmito.github.io/Meta-Trading)  
+✔️ Полная адаптивность ✔️ Форма с валидацией ✔️ Интеграция CRM
+
+---
+
+### 🧪 Пет-проекты и учебные работы
+
+**[PizzaLAB](https://pizza-lab-red.vercel.app)**  
+📌 React-приложение для пиццерии (React/Firebase)  
+🔗 [Код](https://github.com/kimmito/pizzaLab) | [Демо](https://pizza-lab-red.vercel.app)  
+✔️ Админ-панель ✔️ Корзина заказов ✔️ Адаптивный дизайн  
+
+**[WildSave](https://kimmito.github.io/WildSave)**  
+📌 Лендинг центра помощи животным (Bootstrap)  
+🔗 [Код](https://github.com/kimmito/WildSave) | [Демо](https://kimmito.github.io/WildSave)  
+✔️ Анимации ✔️ Яндекс.Карты ✔️ Модальные окна  
 
 📫 **Связь:** [![Telegram](https://img.shields.io/badge/-@skmito-26A5E4?logo=telegram)](https://t.me/skmito)  
 
