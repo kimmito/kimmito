@@ -21,7 +21,8 @@
 • Оптимизация SEO (мета-теги, sitemap, OpenGraph) 
 
 ## 🏆 Мои проекты
-- [PizzaLAB](https://pizza-lab-red.vercel.app) — React-приложение - сайт пиццерии | https://github.com/kimmito/pizzaLab
+- [PizzaLAB](https://pizza-lab-red.vercel.app) — React-приложение - сайт пиццерии | https://github.com/kimmito/pizzaLab | Пет-проект
+- [Meta Trading AI](https://kimmito.github.io/Meta-Trading) - Лендинг для автоматизированного трейдинга | https://github.com/kimmito/Meta-Trading | Коммерческий проект
 
 📫 **Связь:** [![Telegram](https://img.shields.io/badge/-@skmito-26A5E4?logo=telegram)](https://t.me/skmito)  
 
