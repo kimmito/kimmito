@@ -12,37 +12,51 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
 
-**🔧 Что делаю:**  
+---
+
+## 🔧 Навыки
+
 • Адаптивные сайты и SPA-приложения  
 • Чистый и поддерживаемый код  
 • Современные решения на React/TypeScript  
-• Вёрстка по макетам (Pixel Perfect)
-• Интерактивные анимации
-• Оптимизация SEO (мета-теги, sitemap, OpenGraph) 
-
-## 🏆 Портфолио проектов
-
-### 💼 Коммерческие проекты
-
-**[Meta Trading AI](https://kimmito.github.io/Meta-Trading)**  
-📌 Лендинг для финтех-стартапа (HTML/CSS/JS)  
-🔗 [Код](https://github.com/kimmito/Meta-Trading) | [Демо](https://kimmito.github.io/Meta-Trading)  
-✔️ Полная адаптивность ✔️ Форма с валидацией ✔️ Интеграция CRM
+• Вёрстка по макетам (Pixel Perfect)  
+• Интерактивные анимации  
+• Оптимизация SEO (мета-теги, sitemap, OpenGraph)  
 
 ---
 
-### 🧪 Пет-проекты и учебные работы
+## 🏆 Портфолио
 
-**[PizzaLAB](https://pizza-lab-red.vercel.app)**  
-📌 React-приложение для пиццерии (React/Firebase)  
+### 💼 Коммерческие проекты
+
+📊 **[Meta Trading AI](https://kimmito.github.io/Meta-Trading)**  
+Лендинг для финтех-стартапа (HTML/CSS/JS)  
+🔗 [Код](https://github.com/kimmito/Meta-Trading) | [Демо](https://kimmito.github.io/Meta-Trading)  
+✔️ Полная адаптивность ✔️ Форма с валидацией ✔️ Интеграция CRM  
+
+---
+
+### 🧪 Пет-проекты
+
+🍕 **[PizzaLAB](https://pizza-lab-red.vercel.app)**  
+React-приложение для пиццерии (React/Firebase)  
 🔗 [Код](https://github.com/kimmito/pizzaLab) | [Демо](https://pizza-lab-red.vercel.app)  
 ✔️ Админ-панель ✔️ Корзина заказов ✔️ Адаптивный дизайн  
 
-**[WildSave](https://kimmito.github.io/WildSave)**  
-📌 Лендинг центра помощи животным (Bootstrap)  
+🐺 **[WildSave](https://kimmito.github.io/WildSave)**  
+Лендинг центра помощи животным (Bootstrap)  
 🔗 [Код](https://github.com/kimmito/WildSave) | [Демо](https://kimmito.github.io/WildSave)  
 ✔️ Анимации ✔️ Яндекс.Карты ✔️ Модальные окна  
 
-📫 **Связь:** [![Telegram](https://img.shields.io/badge/-@skmito-26A5E4?logo=telegram)](https://t.me/skmito)  
+🍅 **[TomatoTracker](https://kimmito.github.io/tomatoTracker)**  
+Лендинг для мобильного приложения (Bootstrap)  
+🔗 [Код](https://github.com/kimmito/tomatoTracker) | [Демо](https://kimmito.github.io/tomatoTracker)  
+✔️ Адаптивный дизайн ✔️ Кастомные SVG ✔️ Оптимизация  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmito&show_icons=true&theme=dracula&hide_border=true)
+---
+
+## 📫 Контакты
+
+💬 [Telegram](https://t.me/skmito)    
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmito&show_icons=true&theme=dracula&hide_border=true)](https://github.com/kimmito)
