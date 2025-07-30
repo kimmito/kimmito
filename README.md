@@ -32,7 +32,6 @@
 📊 **[Meta Trading AI](https://kimmito.github.io/Meta-Trading)**  
 Лендинг для финтех-стартапа (HTML/CSS/JS)  
 🔗 [Код](https://github.com/kimmito/Meta-Trading) | [Демо](https://kimmito.github.io/Meta-Trading)  
-✔️ Полная адаптивность ✔️ Форма с валидацией ✔️ Интеграция CRM  
 
 ---
 
@@ -41,17 +40,14 @@
 🍕 **[PizzaLAB](https://pizza-lab-red.vercel.app)**  
 React-приложение для пиццерии (React/Firebase)  
 🔗 [Код](https://github.com/kimmito/pizzaLab) | [Демо](https://pizza-lab-red.vercel.app)  
-✔️ Админ-панель ✔️ Корзина заказов ✔️ Адаптивный дизайн  
 
 🐺 **[WildSave](https://kimmito.github.io/WildSave)**  
 Лендинг центра помощи животным (Bootstrap)  
 🔗 [Код](https://github.com/kimmito/WildSave) | [Демо](https://kimmito.github.io/WildSave)  
-✔️ Анимации ✔️ Яндекс.Карты ✔️ Модальные окна  
 
 🍅 **[TomatoTracker](https://kimmito.github.io/tomatoTracker)**  
 Лендинг для мобильного приложения (Bootstrap)  
 🔗 [Код](https://github.com/kimmito/tomatoTracker) | [Демо](https://kimmito.github.io/tomatoTracker)  
-✔️ Адаптивный дизайн ✔️ Кастомные SVG ✔️ Оптимизация  
 
 ---
 
