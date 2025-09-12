@@ -34,6 +34,9 @@
 Лендинг для финтех-стартапа (HTML/CSS/JS)  
 🔗 [Код](https://github.com/kimmito/Meta-Trading) | [Демо](https://kimmito.github.io/Meta-Trading)  
 
+🤖 **AegisAI**  
+Лендинг для системы спортивной аналитики (HTML/CSS/JS/Bootstrap)  
+🔗 [Код](https://github.com/kimmito/Aegis-AI) | [Демо](https://kimmito.github.io/Aegis-AI)
 ---
 
 ### 🧪 Пет-проекты
