@@ -11,6 +11,7 @@
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?logo=react-router&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
