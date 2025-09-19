@@ -62,6 +62,6 @@ React-приложение для пиццерии (React/Firebase)
 
 ## 📫 Контакты
 
-💬 [Telegram](https://t.me/skmito)    
+💬 Mail: kimmito1231@gmail.com
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmito&show_icons=true&theme=dracula&hide_border=true)](https://github.com/kimmito)
