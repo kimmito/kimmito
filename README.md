@@ -55,9 +55,6 @@ React-приложение для пиццерии (React/Firebase)
 Лендинг центра помощи животным (Bootstrap)  
 🔗 [Код](https://github.com/kimmito/WildSave) | [Демо](https://kimmito.github.io/WildSave)  
 
-🍅 **[TomatoTracker](https://kimmito.github.io/tomatoTracker)**  
-Лендинг для мобильного приложения (Bootstrap)  
-🔗 [Код](https://github.com/kimmito/tomatoTracker) | [Демо](https://kimmito.github.io/tomatoTracker)  
 
 ---
 
