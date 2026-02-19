@@ -17,9 +17,9 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![PostgreSQL]([https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white))
-![C++]([https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white](https://img.shields.io/badge/-C++-00599C?logo=c%252B%252B&logoColor=white))
-![Prisma]([https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white))
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%252B%252B&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 
 ---
 
