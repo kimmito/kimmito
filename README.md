@@ -1,6 +1,5 @@
-# 👋 Привет, я Егор 
+# 👋 Егор, 21 год, Frontend-разработчик
 
-**🚀 Фронтенд-разработчик | 20 лет | Создаю цифровые продукты**  
 
 🛠 **Мой стек:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -28,8 +27,7 @@
 • Адаптивные сайты и SPA-приложения  
 • Чистый и поддерживаемый код  
 • Современные решения на React/TypeScript  
-• Вёрстка по макетам (Pixel Perfect)  
-• Интерактивные анимации  
+• Вёрстка по макетам (Pixel Perfect)    
 • Оптимизация SEO  
 
 ---
@@ -49,6 +47,10 @@
 ---
 
 ### 🧪 Пет-проекты
+
+ **[PhonePizzaLAB](https://kimmito.github.io/PhonePizzaLab)**  
+Улучшенная версия проекта PizzaLAB - мобильное приложение на React Native + expo, с полноценным бэкендом на NestJS  
+🔗 [Код](https://github.com/kimmito/PhonePizzaLab) 
 
 🍕 **[PizzaLAB](https://pizza-lab-red.vercel.app)**  
 React-приложение для пиццерии (React/Firebase)  
