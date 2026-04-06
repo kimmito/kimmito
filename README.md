@@ -48,7 +48,7 @@
 
 ### 🧪 Пет-проекты
 
- **[PhonePizzaLAB](https://kimmito.github.io/PhonePizzaLab)**  
+🍕**[MobilePizzaLAB](https://kimmito.github.io/MobilePizzaLab)**  
 Улучшенная версия проекта PizzaLAB - мобильное приложение на React Native + expo, с полноценным бэкендом на NestJS  
 🔗 [Код](https://github.com/kimmito/PhonePizzaLab) 
 
