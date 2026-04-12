@@ -44,13 +44,20 @@
 Лендинг для системы спортивной аналитики (HTML/CSS/JS/Bootstrap)  
 🔗 [Код](https://github.com/kimmito/Aegis-AI) | [Демо](https://kimmito.github.io/Aegis-AI)
 
+💅 **NailsBar (в разработке)**
+FullStack веб-приложение для салона красоты ( React + TypeScript )
+
 ---
 
 ### 🧪 Пет-проекты
 
-🍕**[MobilePizzaLAB](https://github.com/kimmito/MobilePizzaLab)**  
+🍕 **[MobilePizzaLAB](https://mobile-pizza-lab.vercel.app)**   
 Улучшенная версия проекта PizzaLAB - мобильное приложение на React Native + expo, с полноценным бэкендом на NestJS  
-🔗 [Код](https://github.com/kimmito/MobilePizzaLab) 
+🔗 [Код](https://github.com/kimmito/MobilePizzaLab) | [Демо](https://mobile-pizza-lab.vercel.app)
+
+⚽ **[IPLBettingApp](https://kimmito.github.io/Betting-Landing)
+Адаптивный лендинг для мобильного приложения ставок на крикет IPL (Indian Premier League).
+🔗 [Код](https://github.com/kimmito/Betting-Landing) | [Демо](https://kimmito.github.io/Betting-Landing)
 
 🍕 **[PizzaLAB](https://pizza-lab-red.vercel.app)**  
 React-приложение для пиццерии (React/Firebase)  
