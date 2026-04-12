@@ -55,9 +55,9 @@ FullStack веб-приложение для салона красоты ( React
 Улучшенная версия проекта PizzaLAB - мобильное приложение на React Native + expo, с полноценным бэкендом на NestJS  
 🔗 [Код](https://github.com/kimmito/MobilePizzaLab) | [Демо](https://mobile-pizza-lab.vercel.app)
 
-⚽ **[IPLBettingApp](https://kimmito.github.io/Betting-Landing)
-Адаптивный лендинг для мобильного приложения ставок на крикет IPL (Indian Premier League).
-🔗 [Код](https://github.com/kimmito/Betting-Landing) | [Демо](https://kimmito.github.io/Betting-Landing)
+⚽ **[IPLBettingApp](https://kimmito.github.io/Betting-Landing)**  
+Адаптивный лендинг для мобильного приложения ставок на крикет IPL (Indian Premier League).  
+🔗 [Код](https://github.com/kimmito/Betting-Landing) | [Демо](https://kimmito.github.io/Betting-Landing)  
 
 🍕 **[PizzaLAB](https://pizza-lab-red.vercel.app)**  
 React-приложение для пиццерии (React/Firebase)  
