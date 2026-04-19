@@ -5,7 +5,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?logo=react-router&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -24,13 +26,9 @@
 
 ## 🔧 О Себе
 
-🧹 Люблю порядок в коде (и в коммитах)  
-
-🤝 Открыт к идеям и адекватно принимаю ревью  
-
-🔍 Внимателен к деталям верстки и UX-мелочам  
-
-⏱️ Не прокрастинирую — делаю, коммичу, показываю 
+Имею опыт коммерческой разработки
+Обучаюсь на третьем курсе ДГТУ
+В поисках работы на позицию Frontend-разработчик
 
 
 ---
