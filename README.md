@@ -4,13 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:3178C6,100:764ABC&height=200&section=header&text=Привет,%20я%20Егор!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend-разработчик&descSize=22&descAlignY=58" width="100%" />
 
 <a href="https://github.com/kimmito">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript+разработчик;Делаю+интерфейсы,+которыми+приятно+пользоваться;Fullstack:+NestJS+%2B+PostgreSQL+%2B+Prisma;Открыт+к+предложениям+о+работе" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=React+%2B+TypeScript+разработчик;Делаю+интерфейсы,+которыми+приятно+пользоваться;Fullstack:+NestJS+%2B+PostgreSQL+%2B+Prisma;Открыт+к+предложениям+о+работе" alt="" />
 </a>
 
 <br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=kimmito&label=Просмотры+профиля&color=3178C6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/kimmito?label=Подписчики&style=flat-square&color=61DAFB&labelColor=1f2937)
 
 </div>
 
